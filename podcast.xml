@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>英語学習ポッドキャスト</title>
+    <link>https://kojimaxkei.github.io/english-podcast/</link>
+    <description>家庭学習用英語教材</description>
+
+    <item>
+      <title>第7週 瞬間英作文</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/lesson007.mp3"
+        type="audio/mpeg" />
+      <guid>
+        https://kojimaxkei.github.io/english-podcast/lesson007.mp3
+      </guid>
+    </item>
+
+  </channel>
+</rss>
