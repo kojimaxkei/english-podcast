@@ -6,6 +6,14 @@
     <description>家庭学習用英語教材</description>
 
      <item>
+    <title>中２ｸﾗｽ 第7週 瞬間英作文</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/j2_lesson7.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast/j2_lesson7.mp3</guid>
+    </item>
+    
+     <item>
       <title>社会一問一答</title>
       <enclosure
         url="https://kojimaxkei.github.io/english-podcast/social001.mp3"
@@ -13,6 +21,7 @@
       <guid>https://kojimaxkei.github.io/english-podcast/social001.mp3
       </guid>
     </item>
+    
     <item>
     <title>第6週 英単語（和→英）</title>
       <enclosure
@@ -20,6 +29,7 @@
         type="audio/mpeg" />
       <guid>https://kojimaxkei.github.io/english-podcast/waei_lesson006.mp3</guid>
     </item>
+    
     <item>
       <title>第6週 瞬間英作文</title>
       <enclosure
