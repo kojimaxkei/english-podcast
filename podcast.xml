@@ -4,7 +4,21 @@
     <title>英語学習ポッドキャスト</title>
     <link>https://kojimaxkei.github.io/english-podcast/</link>
     <description>家庭学習用英語教材</description>
-
+   
+    <item>
+    <title>第6週 英単語（和→英）</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/waei_lesson006.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast/waei_lesson006.mp3</guid>
+    </item>
+    <item>
+      <title>第6週 瞬間英作文</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/lesson006.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast/lesson006.mp3</guid>
+    </item>
     <item>
       <title>第7週 瞬間英作文</title>
       <enclosure
@@ -13,20 +27,6 @@
       <guid>
         https://kojimaxkei.github.io/english-podcast/lesson007.mp3
       </guid>
-    </item>
-　　　<item>
-      <title>第6週 瞬間英作文</title>
-      <enclosure
-        url="https://kojimaxkei.github.io/english-podcast/lesson006.mp3"
-        type="audio/mpeg" />
-      <guid>https://kojimaxkei.github.io/english-podcast/lesson006.mp3</guid>
-    </item>
-    <item>
-      <title>第6週 英単語（和→英）</title>
-      <enclosure
-        url="https://kojimaxkei.github.io/english-podcast/waei_lesson006.mp3"
-        type="audio/mpeg" />
-      <guid>https://kojimaxkei.github.io/english-podcast/waei_lesson006.mp3</guid>
     </item>
   </channel>
 </rss>
