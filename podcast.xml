@@ -14,6 +14,13 @@
         https://kojimaxkei.github.io/english-podcast/lesson007.mp3
       </guid>
     </item>
+　　　<item>
+      <title>第6週 瞬間英作文</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/lesson006.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast/lesson006.mp3</guid>
+    </item>
 
   </channel>
 </rss>
