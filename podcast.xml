@@ -21,6 +21,12 @@
         type="audio/mpeg" />
       <guid>https://kojimaxkei.github.io/english-podcast/lesson006.mp3</guid>
     </item>
-
+    <item>
+      <title>第6週 英単語（和→英）</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/waei_lesson006.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast/waei_lesson006.mp3</guid>
+    </item>
   </channel>
 </rss>
