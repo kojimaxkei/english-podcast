@@ -6,6 +6,12 @@
     <description>家庭学習用英語教材</description>
 
     <item>
+    <title>中２ｸﾗﾆｭｰﾎﾗｲｽﾞﾝ対策動画U2</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/j2nhUnit2.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast/j2nhUnit2.mp3</guid>
+    </item><item>
     <title>中２ｸﾗﾆｭｰﾎﾗｲｽﾞﾝ対策動画U0U1</title>
       <enclosure
         url="https://kojimaxkei.github.io/english-podcast/j2nhUnit0Unit1.mp3"
