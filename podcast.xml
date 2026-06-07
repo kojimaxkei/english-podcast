@@ -6,6 +6,25 @@
     <description>家庭学習用英語教材</description>
 
     <item>
+    <title>中２ｸﾗﾆｭｰﾎﾗｲｽﾞﾝ対策動画U7</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/j2nhUnit7.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast/j2nhUnit7.mp3</guid>
+    </item><item>
+    <title>中２ｸﾗﾆｭｰﾎﾗｲｽﾞﾝ対策動画U6,StageActivity2</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/j2nhUnit6.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast/j2nhUnit6.mp3</guid>
+    </item><item>
+    <title>中２ｸﾗﾆｭｰﾎﾗｲｽﾞﾝ対策動画U5</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast/j2nhUnit5.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast/j2nhUnit5.mp3</guid>
+    </item>
+    <item>
     <title>中２ｸﾗﾆｭｰﾎﾗｲｽﾞﾝ対策動画U4</title>
       <enclosure
         url="https://kojimaxkei.github.io/english-podcast/j2nhUnit4.mp3"
